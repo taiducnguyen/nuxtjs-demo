@@ -24,8 +24,7 @@ const config: NuxtConfig = {
   modules: [],
   plugins: [
     '~/plugins/truncate'
-  ],
-  target: 'static'
+  ]
 }
 
 export default config

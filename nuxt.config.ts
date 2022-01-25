@@ -8,7 +8,6 @@ const config: NuxtConfig = {
     '@nuxt/image'
   ],
   css: [
-    '~/assets/styles/main.scss'
   ],
   env: {},
   head: {

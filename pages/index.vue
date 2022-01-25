@@ -1,22 +1,20 @@
 <template>
   <main>
-    <h1 class="title">
-      Measure page quality
-    </h1>
+    <h1 class="title">Nuxtjs - Measure page quality</h1>
 
     <p class="description">
       Test your pages in a lab environment powered by PageSpeed Insights. Then get tips and recommendations to improve your user experience. For field performance, see the
       <a target="_blank" href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">PageSpeed Insights</a> tool.
     </p>
 
-    <nuxt-img src="/testing.jpg" alt="Elextrolux Logo" width="400" height="400" />
+    <nuxt-img src="/testing.jpg" alt="Tesing" width="400" height="400" />
   </main>
 </template>
 
 <script lang="ts">
 export default {
-  name: 'PageIndex'
-}
+  name: "PageIndex",
+};
 </script>
 
 <style scoped>
